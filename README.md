@@ -1,5 +1,12 @@
 # Blackpool Makerspace Laser Cutter Guide
 
+## Laser Cutter Rules
+Rule 0: Do not be on fire!
+Rule 1: If you haven't been shown how to use it, ASK!
+Rule 2: Never leave it unattended.
+Rule 3: If something happens, turn off the power or the laser.
+Rule 4: The lid should **always** be down when the laser is in operation.
+
 ## Startup Guide
 
 * Check water in the bucket.
@@ -9,10 +16,29 @@
 * Power up the laser cutter.
 * Ensure the LASER switch is OFF. (Raised Proud).
 * Set laser power to correct level as per table below.
+* Place the material to cut in the cutting area and close the lid.
 * Connect computer to cutter using the USB lead.
-* Start up the software
+* Start up the software and use as per the software guidance below.
+
 
 ## Software
+We are using the K40 Whisperer software that works with Windows and Linux.
+
+[Installation instructions here](http://www.scorchworks.com/K40whisperer/k40whisperer.html)
+
+## Materials
+
+### Do not cut the following materials
+
+* MDF
+* PVC
+* Anything containing chlorine
+* Polycarbonate
+* Fiberglass
+* PCB
+* HDPE
+* Carbon Fiber
+* Metal
 
 ## Material Cutting Guide
 
