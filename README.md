@@ -1,6 +1,6 @@
-#Blackpool Makerspace Laser Cutter Guide
+# Blackpool Makerspace Laser Cutter Guide
 
-##Startup Guide
+## Startup Guide
 
 * Check water in the bucket.
 * Ensure that the pump is submerged in the water and that the return tube is also in the water.
@@ -12,9 +12,9 @@
 * Connect computer to cutter using the USB lead.
 * Start up the software
 
-##Software
+## Software
 
-##Material Cutting Guide
+## Material Cutting Guide
 
 | Material  |Thickness mm  |Cut / Engrave   |Power %  |Number of Passes   |Details   |
 |---|---|---|---|---|---|
