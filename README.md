@@ -2,10 +2,15 @@
 
 ## Laser Cutter Rules
 Rule 0: Do not be on fire!
+
 Rule 1: If you haven't been shown how to use it, ASK!
+
 Rule 2: Never leave it unattended.
+
 Rule 3: If something happens, turn off the power or the laser.
+
 Rule 4: The lid should **always** be down when the laser is in operation.
+
 
 ## Startup Guide
 
