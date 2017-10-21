@@ -1,20 +1,11 @@
 # Blackpool Makerspace Laser Cutter Guide
 
-##Type of Cutter
+## Type of Cutter
 
 K40 Laser cutter
 
-##Does it work?
+## Does it work?
 Yes!
-
-<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">First cut out shape with the laser cutter <a href="https://twitter.com/MakerspaceFY1?ref_src=twsrc%5Etfw">@MakerspaceFY1</a> (<a href="https://twitter.com/biglesp?ref_src=twsrc%5Etfw">@biglesp</a> ) <a href="https://t.co/UzQT2sk8gF">pic.twitter.com/UzQT2sk8gF</a></p>&mdash; All About Code (@all_about_code) <a href="https://twitter.com/all_about_code/status/921724284728430592?ref_src=twsrc%5Etfw">October 21, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">Here is my <a href="https://twitter.com/PyConUK?ref_src=twsrc%5Etfw">@PyConUK</a> badge, fresh off the laser cutter! <a href="https://twitter.com/biglesp?ref_src=twsrc%5Etfw">@biglesp</a> <a href="https://twitter.com/MakerspaceFY1?ref_src=twsrc%5Etfw">@MakerspaceFY1</a> <a href="https://t.co/PRZfnuvalV">pic.twitter.com/PRZfnuvalV</a></p>&mdash; All About Code (@all_about_code) <a href="https://twitter.com/all_about_code/status/921736503969148928?ref_src=twsrc%5Etfw">October 21, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">Peak <a href="https://twitter.com/hashtag/pounderland?src=hash&amp;ref_src=twsrc%5Etfw">#pounderland</a> tweet! <a href="https://t.co/xpRb7DdkWm">pic.twitter.com/xpRb7DdkWm</a></p>&mdash; biglesp (@biglesp) <a href="https://twitter.com/biglesp/status/921750307197083654?ref_src=twsrc%5Etfw">October 21, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Laser Cutter Rules
 Rule 0: Do not be on fire!
