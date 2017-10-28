@@ -64,3 +64,7 @@ We are using the K40 Whisperer software that works with Windows and Linux.
 | Acrylic  | 5  | Cut  | 50  | 2  | Cuts well do this after 2 passes at 75% for a clean cut  |
 | EVA Foam| 2| Engrave Raster | 12.5 | 1/2 | Looks good at large sizes (half A4) but smaller sizes it can be diffcult to get detail|
 | EVA Foam| 2 | Cut Vector | 25 | 1/2 | Cuts easy, needs speedy multiple cuts rather than one slow cut.
+| Foamcore| 2 | Engrave Vector | 12.5 | 1 | Slow, low power engrave needed, the board can warp slightly|
+| Foamcore| 2 | Cut Vector | 12.5 | 2 | Slow, low power cut, go over twice and then carefully check it.|
+| Vinyl | 0.1 | Engrave Vector | 12.5 | 1 | Very thin material, it may cut when you wish to engrave|
+|Vinyl | 0.1 | Cut Vector | 15-20 | 1 | Cuts VERY easy but be careful!|
