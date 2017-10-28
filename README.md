@@ -55,7 +55,7 @@ We are using the K40 Whisperer software that works with Windows and Linux.
 ## Material Cutting Guide
 
 | Material  |Thickness mm  |Cut / Engrave   |Power %  |Number of Passes   |Speed |Details   |
-|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|
 |Hardwood   | 3  |Cut   |75   | 2  |Default|Cuts cleanly with no burns   |
 | Hardwood  |  3 | Engrave Raster  | 12  | 1  | Default| Light engrave, no burns   |
 | Hardwood  |  3 | Engrave Raster  | 20  | 1  |Default| Medium engrave, no burns   |
