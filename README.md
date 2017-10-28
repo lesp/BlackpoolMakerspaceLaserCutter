@@ -62,3 +62,5 @@ We are using the K40 Whisperer software that works with Windows and Linux.
 | Acrylic  | 5  | Engrave Raster  | 25  | 1  | Light engrave no burns  |
 | Acrylic  | 5  | Cut  | 75  | 2  | Cuts but not all the way through  |
 | Acrylic  | 5  | Cut  | 50  | 2  | Cuts well do this after 2 passes at 75% for a clean cut  |
+| EVA Foam| 2| Engrave Raster | 12.5 | 1/2 | Looks good at large sizes (half A4) but smaller sizes it can be diffcult to get detail|
+| EVA Foam| 2 | Cut Vector | 25 | 1/2 | Cuts easy, needs speedy multiple cuts rather than one slow cut.
