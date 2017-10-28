@@ -54,17 +54,17 @@ We are using the K40 Whisperer software that works with Windows and Linux.
 
 ## Material Cutting Guide
 
-| Material  |Thickness mm  |Cut / Engrave   |Power %  |Number of Passes   |Details   |
+| Material  |Thickness mm  |Cut / Engrave   |Power %  |Number of Passes   |Speed |Details   |
 |---|---|---|---|---|---|
-|Hardwood   | 3  |Cut   |75   | 2  |Cuts cleanly with no burns   |
-| Hardwood  |  3 | Engrave Raster  | 12  | 1  |Light engrave, no burns   |
-| Hardwood  |  3 | Engrave Raster  | 20  | 1  |Medium engrave, no burns   |
-| Acrylic  | 5  | Engrave Raster  | 25  | 1  | Light engrave no burns  |
-| Acrylic  | 5  | Cut  | 75  | 2  | Cuts but not all the way through  |
-| Acrylic  | 5  | Cut  | 50  | 2  | Cuts well do this after 2 passes at 75% for a clean cut  |
-| EVA Foam| 2| Engrave Raster | 12.5 | 1/2 | Looks good at large sizes (half A4) but smaller sizes it can be diffcult to get detail|
-| EVA Foam| 2 | Cut Vector | 25 | 1/2 | Cuts easy, needs speedy multiple cuts rather than one slow cut.
-| Foamcore| 2 | Engrave Vector | 12.5 | 1 | Slow, low power engrave needed, the board can warp slightly|
-| Foamcore| 2 | Cut Vector | 12.5 | 2 | Slow, low power cut, go over twice and then carefully check it.|
-| Vinyl | 0.1 | Engrave Vector | 12.5 | 1 | Very thin material, it may cut when you wish to engrave|
-|Vinyl | 0.1 | Cut Vector | 15-20 | 1 | Cuts VERY easy but be careful!|
+|Hardwood   | 3  |Cut   |75   | 2  |Default|Cuts cleanly with no burns   |
+| Hardwood  |  3 | Engrave Raster  | 12  | 1  | Default| Light engrave, no burns   |
+| Hardwood  |  3 | Engrave Raster  | 20  | 1  |Default| Medium engrave, no burns   |
+| Acrylic  | 5  | Engrave Raster  | 25  | 1  | Default| Light engrave no burns  |
+| Acrylic  | 5  | Cut  | 75  | 2  | Default| Cuts but not all the way through  |
+| Acrylic  | 5  | Cut  | 50  | 2  | Default|  Cuts well do this after 2 passes at 75% for a clean cut  |
+| EVA Foam| 2| Engrave Raster | 12.5 | 1/2 | Default| Looks good at large sizes (half A4) but smaller sizes it can be diffcult to get detail|
+| EVA Foam| 2 | Cut Vector | 25 | 1/2 | TO CHECK| Cuts easy, needs moderate speed multiple cuts rather than one slow cut.
+| Foamcore| 2 | Engrave Vector | 12.5 | 1 | TO CHECK| Slow, low power engrave needed, the board can warp slightly|
+| Foamcore| 2 | Cut Vector | 12.5 | 2 | TO CHECK |Slow, low power cut, go over twice and then carefully check it.|
+| Vinyl | 0.1 | Engrave Vector | 12.5 | 1 | TO CHECK| Very thin material, it may cut when you wish to engrave|
+|Vinyl | 0.1 | Cut Vector | 15-20 | 1 | TO CHECK| Cuts VERY easy but be careful!|
