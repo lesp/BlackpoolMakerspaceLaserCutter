@@ -68,3 +68,5 @@ We are using the K40 Whisperer software that works with Windows and Linux.
 | Foamcore| 2 | Cut Vector | 12.5 | 2 | TO CHECK |Slow, low power cut, go over twice and then carefully check it.|
 | Vinyl | 0.1 | Engrave Vector | 12.5 | 1 | TO CHECK| Very thin material, it may cut when you wish to engrave|
 |Vinyl | 0.1 | Cut Vector | 15-20 | 1 | TO CHECK| Cuts VERY easy but be careful!|
+|Felt| 1| Engrave Vector| 12| 1 | Slow| WATCH IT LIKE A HAWK!! Cuts really easy but too much power too slow can cause a fire, cut slow and low|
+|Felt| 1 | Cut Vector| 12 | 2 | Slow | WATCH IT LIKE A HAWK!! Cuts really easy but too much power too slow can cause a fire, cut slow and low|
