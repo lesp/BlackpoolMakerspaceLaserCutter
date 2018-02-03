@@ -68,10 +68,10 @@ We are using the K40 Whisperer software that works with Windows and Linux.
 | Acrylic  | 5  | Cut  | 75  | 2  | Default| Cuts but not all the way through  |
 | Acrylic  | 5  | Cut  | 50  | 2  | Default|  Cuts well do this after 2 passes at 75% for a clean cut  |
 | EVA Foam| 2| Engrave Raster | 12.5 | 1/2 | Default| Looks good at large sizes (half A4) but smaller sizes it can be diffcult to get detail|
-| EVA Foam| 2 | Cut Vector | 25 | 1/2 | TO CHECK| Cuts easy, needs moderate speed multiple cuts rather than one slow cut.
-| Foamcore| 2 | Engrave Vector | 12.5 | 1 | TO CHECK| Slow, low power engrave needed, the board can warp slightly|
-| Foamcore| 2 | Cut Vector | 12.5 | 2 | TO CHECK |Slow, low power cut, go over twice and then carefully check it.|
-| Vinyl | 0.1 | Engrave Vector | 12.5 | 1 | TO CHECK| Very thin material, it may cut when you wish to engrave|
-|Vinyl | 0.1 | Cut Vector | 15-20 | 1 | TO CHECK| Cuts VERY easy but be careful!|
-|Felt| 1| Engrave Vector| 12| 1 | Slow| WATCH IT LIKE A HAWK!! Cuts really easy but too much power too slow can cause a fire, cut slow and low|
-|Felt| 1 | Cut Vector| 12 | 2 | Slow | WATCH IT LIKE A HAWK!! Cuts really easy but too much power too slow can cause a fire, cut slow and low|
+| EVA Foam| 2 | Cut Vector | 25 | 1/2 | Default| Cuts easy, needs moderate speed multiple cuts rather than one slow cut.
+| Foamcore| 2 | Engrave Vector | 12.5 | 1 | Default| Slow, low power engrave needed, the board can warp slightly|
+| Foamcore| 2 | Cut Vector | 12.5 | 2 | Default |Slow, low power cut, go over twice and then carefully check it.|
+| Vinyl | 0.1 | Engrave Vector | 12.5 | 1 | Default| Very thin material, it may cut when you wish to engrave|
+|Vinyl | 0.1 | Cut Vector | 15-20 | 1 | Default| Cuts VERY easy but be careful!|
+|Felt| 1| Engrave Vector| 12| 1 | 20mm / second| WATCH IT LIKE A HAWK!! Cuts really easy but too much power too slow can cause a fire, cut slow and low|
+|Felt| 1 | Cut Vector| 12 | 2 | 10mm / second | WATCH IT LIKE A HAWK!! Cuts really easy but too much power too slow can cause a fire, cut slow and low|
