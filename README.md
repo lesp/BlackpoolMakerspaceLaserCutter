@@ -59,6 +59,7 @@ We are using the K40 Whisperer software that works with Windows and Linux.
 |Hardwood   | 3  |Cut   |75   | 2  |Default|Cuts cleanly with no burns   |
 | Hardwood  |  3 | Engrave Raster  | 12  | 1  | Default| Light engrave, no burns   |
 | Hardwood  |  3 | Engrave Raster  | 20  | 1  |Default| Medium engrave, no burns   |
+| Plywood | 3 | Engrave Vector| 15-25 | 1 | Default | 15% is light, 25% Heavy engrave |
 | Acrylic  | 5  | Engrave Raster  | 25  | 1  | Default| Light engrave no burns  |
 | Acrylic  | 5  | Cut  | 75  | 2  | Default| Cuts but not all the way through  |
 | Acrylic  | 5  | Cut  | 50  | 2  | Default|  Cuts well do this after 2 passes at 75% for a clean cut  |
