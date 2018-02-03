@@ -60,6 +60,10 @@ We are using the K40 Whisperer software that works with Windows and Linux.
 | Hardwood  |  3 | Engrave Raster  | 12  | 1  | Default| Light engrave, no burns   |
 | Hardwood  |  3 | Engrave Raster  | 20  | 1  |Default| Medium engrave, no burns   |
 | Plywood | 3 | Engrave Vector| 15-25 | 1 | Default | 15% is light, 25% Heavy engrave |
+| Plywood | 3 | Cut | 50 | 2 | Default | May need a slightly higher power |
+| Plywood | 6 | Engrave Raster | 20 - 50 | 1 | Default | Looks lovely |
+| Plywood | 6 | Engrave Vector| 15-25 | 1 | Default | 15% is light, 25% Heavy engrave |
+| Plywood | 6 | Cut | 90 | 3 | 5mm / second | Will cause burn damage to wood, use masking tape |
 | Acrylic  | 5  | Engrave Raster  | 25  | 1  | Default| Light engrave no burns  |
 | Acrylic  | 5  | Cut  | 75  | 2  | Default| Cuts but not all the way through  |
 | Acrylic  | 5  | Cut  | 50  | 2  | Default|  Cuts well do this after 2 passes at 75% for a clean cut  |
