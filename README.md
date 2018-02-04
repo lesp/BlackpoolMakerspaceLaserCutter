@@ -44,7 +44,7 @@ We are using the K40 Whisperer software that works with Windows and Linux.
 
 * MDF
 * PVC
-* Anything containing chlorine
+* Anything containing chlorine (That includes vinyl)
 * Polycarbonate
 * Fiberglass
 * PCB
@@ -74,7 +74,5 @@ We are using the K40 Whisperer software that works with Windows and Linux.
 | EVA Foam| 2 | Cut Vector | 25 | 1/2 | Default| Cuts easy, needs moderate speed multiple cuts rather than one slow cut.
 | Foamcore| 2 | Engrave Vector | 12.5 | 1 | Default| Slow, low power engrave needed, the board can warp slightly|
 | Foamcore| 2 | Cut Vector | 12.5 | 2 | Default |Slow, low power cut, go over twice and then carefully check it.|
-| Vinyl | 0.1 | Engrave Vector | 12.5 | 1 | Default| Very thin material, it may cut when you wish to engrave|
-|Vinyl | 0.1 | Cut Vector | 15-20 | 1 | Default| Cuts VERY easy but be careful as the smell / gas emitted is harmful!|
 |Felt| 1| Engrave Vector| 12| 1 | 20mm / second| WATCH IT LIKE A HAWK!! Cuts really easy but too much power too slow can cause a fire, cut slow and low|
 |Felt| 1 | Cut Vector| 12 | 2 | 10mm / second | WATCH IT LIKE A HAWK!! Cuts really easy but too much power too slow can cause a fire, cut slow and low|
